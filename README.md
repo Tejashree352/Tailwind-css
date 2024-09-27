@@ -1,4 +1,4 @@
-# Landing pages 🍕🍔
+# Landing pages
 
 A stylish landing pages  built with **React.js**,**Tailwind css**, offering dark/light mode.
 
